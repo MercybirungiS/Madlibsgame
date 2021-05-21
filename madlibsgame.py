@@ -1,8 +1,8 @@
 # madlibs game 
-color =input("Enter a color:")
-plural_noun=input("Enter a plural noun:")
-celebrity=input("Enter a celebrity:")
+name =input("Enter name:")
+hobby=input("Enter a hobby:")
+desert=input("Enter your favorite food:")
 
-print ("Roses are " + color)
-print(plural_noun+ "are blue ")
-print("I love "+celebrity)
+print ("My name is  " + name)
+print("I love travelling"+hobby)
+print("I love "+desert)
